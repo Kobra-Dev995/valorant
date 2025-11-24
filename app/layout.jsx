@@ -11,7 +11,7 @@ export default function RootLayout({ children }) {
       <head>
         <meta
           name='google-site-verification'
-          content='lAFJGF0yUXC3X6sbYqKTE2fHWavIMSgZSe8oebXuLNU'
+          content='6oGFnCXqJGUJV2Toe2yXRtUfZURNHbzuD5NMkW9Vqkw'
         />
       </head>
       <body>{children}</body>
